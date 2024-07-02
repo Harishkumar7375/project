@@ -4,3 +4,4 @@ COPY target/newapp.war /usr/local/tomcat/webapps/
 Hi
 Hello
 Hello world
+hiiiii
