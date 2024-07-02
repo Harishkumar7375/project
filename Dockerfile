@@ -3,3 +3,4 @@ FROM tomcat:8
 COPY target/newapp.war /usr/local/tomcat/webapps/
 Hi
 Hello
+Hello world
